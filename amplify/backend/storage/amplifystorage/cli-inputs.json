@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifystorage",
+  "policyUUID": "0372cffc",
+  "bucketName": "flutteramplify9f6b13130bd641ad85a3996174c3c3db",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

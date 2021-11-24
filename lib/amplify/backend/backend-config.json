@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "flutteramplify5288cbff": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
